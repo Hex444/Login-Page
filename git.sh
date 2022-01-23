@@ -8,5 +8,5 @@ git commit -m "$input"
 
 git push -u origin master
 
-echo "git push Done :D"
+echo "git push Done"
 
